@@ -407,7 +407,7 @@ margin-top: 80px;
     font-weight: 600;
 }
 
-/* Grid Layout */
+/* Grid Layout  bnate hai yha*/
 .locality-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -448,7 +448,7 @@ margin-top: 80px;
     color: black;
 }
 
-/* See More Section */
+/* See More wala Section */
 .see-more {
     display: flex;
     justify-content: center;
@@ -465,7 +465,7 @@ margin-top: 80px;
     font-size: 1.2rem;
 }
 
-/* -------->Get the Zomato app */
+
 .app-container {
     display: flex;
     justify-content: space-between;
@@ -477,13 +477,13 @@ margin-top: 80px;
     background-color: white;
 }
 
-/* Phone Image Section */
+/* Phone  wali img */
 .phone-image img {
     height: 450px;
     width: auto;
 }
 
-/* Right Section: App Info */
+/* Right Side wala App Info */
 .app-info {
     width: 450px;
 }
@@ -500,7 +500,7 @@ margin-top: 80px;
     margin-bottom: 20px;
 }
 
-/* Input Options */
+/* Input  wali field */
 .input-option {
    
     display: flex;
@@ -516,7 +516,7 @@ margin-top: 80px;
     margin-right: 20px;
 }
 
-/* Form Section */
+/* Form  Section ko  target */
 .input-container {
     display: flex;
     align-items: center;
@@ -545,20 +545,20 @@ margin-top: 80px;
     background-color: #ff6666;
 }
 
-/* Download Text */
+/* Download Text  wali text*/
 .download-text {
     font-size: 1rem;
     color: #666;
     margin-bottom: 10px;
 }
 
-/* App Download Buttons */
+/* App Download Btn */
 .app-download-buttons img {
     width: 150px;
     margin-right: 10px;
 }
 
-/* Explore options near me */
+/* Explore options near me wale div ko target */
 .explore-container {
     width: 1100px;
     margin: 50px auto;
@@ -567,7 +567,7 @@ margin-top: 80px;
     padding: 0;
 }
 
-/* Header Section */
+/* top section header wala Section */
 .header-section {
     padding: 40px;
     border-bottom: 1px solid #ddd;
@@ -580,7 +580,7 @@ margin-top: 80px;
     font-weight: 500;
 }
 
-/* List Section */
+/* List wala section Section */
 .list-section {
     padding: 20px;
 }
@@ -604,7 +604,7 @@ margin-top: 80px;
 }
 
 
-/* Dimension Settings */
+
 .container {
     width: 1100px;
     height: auto;
@@ -624,8 +624,8 @@ margin-top: 80px;
 }
 
 
-/* Footer  sections */
 
+/* footer section mtlb jo last section hota Hi website ka  */
 
   
 .zomato-footer {
